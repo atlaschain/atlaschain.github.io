@@ -1,3 +1,3 @@
-# Atlas Chain
+# Atlaschain
 
-Decenralised, Permissioned Blockchain based Geographic information system
+Decenrtalised, Permissioned Blockchain based Geographic information system
